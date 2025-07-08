@@ -1,5 +1,5 @@
 <div align="center">
-<img src="![Wintersky_ybeuk](https://github.com/user-attachments/assets/cb6a74a6-4e33-4ab6-811e-1f4f56591699)
+<img src="![Screenshot 2025-04-02 222534](https://github.com/user-attachments/assets/33f9914b-000f-406b-bfb9-92b87ecc2f77)
 " align="center" style="width: 100%" />
 </div>  
   
