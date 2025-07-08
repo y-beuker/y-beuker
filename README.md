@@ -1,7 +1,6 @@
 <div align="center">
-<img src="![(https://github.com/user-attachments/assets/33f9914b-000f-406b-bfb9-92b87ecc2f77)](https://github.com/y-beuker/y-beuker/blob/82f48515a6a8a5d7bfccdb4ffdded813b2cfe741/spingflowers.jpg)
-" align="center" style="width: 100%" />
-</div>  
+  <img src="https://github.com/y-beuker/y-beuker/blob/82f48515a6a8a5d7bfccdb4ffdded813b2cfe741/spingflowers.jpg" style="width: 60%; max-width: 100%; height: 250px; object-fit: cover;" />
+</div>
   
 
 ### <div align="center">I'm a computer science student interested in AI and data-driven technology. 🚀</div>  
