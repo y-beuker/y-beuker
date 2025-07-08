@@ -10,3 +10,4 @@ My name is Yenni, and I'm a computer science student interested in AI and data-d
 - 📚 I'm looking for collaboration in building AI projects for real-world applications.
 
 
+
