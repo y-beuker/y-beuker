@@ -1,9 +1,9 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/8694e1a6-6df6-4873-a562-60c483484895" width="80%" height="250" alt="spring flowers banner" />
+<div align="left">
+ <img src="https://github.com/user-attachments/assets/8694e1a6-6df6-4873-a562-60c483484895" width="80%" height="255" alt="spring flowers banner" />
 </div>
   
 
-### <div align="center">I'm a computer science student interested in AI and data-driven technology. 🚀</div>  
+### <div align="left">I'm a computer science student interested in AI and data-driven technology. 🚀</div>  
 
 
 
