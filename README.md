@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://github.com/y-beuker/y-beuker/blob/82f48515a6a8a5d7bfccdb4ffdded813b2cfe741/spingflowers.jpg" style="width: 60%; max-width: 100%; height: 250px; object-fit: cover;" />
+  <img src="https://github.com/user-attachments/assets/8694e1a6-6df6-4873-a562-60c483484895" width="80%" height="250" alt="spring flowers banner" />
 </div>
   
 
 ### <div align="center">I'm a computer science student interested in AI and data-driven technology. 🚀</div>  
-  
+
+
 
 - 🔭 I’m currently working on IBM Data Management certification.   
   
